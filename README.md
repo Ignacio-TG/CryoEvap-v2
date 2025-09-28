@@ -7,7 +7,7 @@ A Python software package for simulating cryogenic liquid evaporation in storage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ignacio-TG/CryoEvap-v2.git
+   git clone https://github.com/fdt-uc-chile/CryoEvap-Tair.git
    cd CryoEvap-v2
    ```
 
@@ -25,7 +25,7 @@ A Python software package for simulating cryogenic liquid evaporation in storage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ignacio-TG/CryoEvap-v2.git
+   git clone https://github.com/fdt-uc-chile/CryoEvap-Tair.git
    cd CryoEvap-v2
    ```
 
