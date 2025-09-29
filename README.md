@@ -8,7 +8,7 @@ A Python software package for simulating cryogenic liquid evaporation in storage
 1. Clone the repository:
    ```bash
    git clone https://github.com/fdt-uc-chile/CryoEvap-Tair.git
-   cd CryoEvap-v2
+   cd CryoEvap-Tair
    ```
 
 2. Create the conda environment:
@@ -26,7 +26,7 @@ A Python software package for simulating cryogenic liquid evaporation in storage
 1. Clone the repository:
    ```bash
    git clone https://github.com/fdt-uc-chile/CryoEvap-Tair.git
-   cd CryoEvap-v2
+   cd CryoEvap-Tair
    ```
 
 2. Install the package:
